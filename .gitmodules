@@ -1,0 +1,3 @@
+[submodule "submodule_child1"]
+	path = submodule_child1
+	url = git@github.com:woshichenxu2016/submodule_child1.git
